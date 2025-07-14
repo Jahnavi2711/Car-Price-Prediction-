@@ -49,4 +49,4 @@ This project predicts the **price of a used car** based on various features usin
 
         streamlit run app.py
 
-**App Link** : https://car-price-prediction-using-machine-learning.streamlit.app/
+
