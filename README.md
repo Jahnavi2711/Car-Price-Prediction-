@@ -42,11 +42,10 @@ This project predicts the **price of a used car** based on various features usin
       cd Car-Price-Prediction
    
 2. Install dependencies:
- 
-      pip install -r requirements.txt
+        pip install -r requirements.txt
 
 3. Run the Streamlit app:
 
       streamlit run app.py
 
-## App Link : https://car-price-prediction-using-machine-learning.streamlit.app/
+**App Link** : https://car-price-prediction-using-machine-learning.streamlit.app/
