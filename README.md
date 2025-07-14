@@ -37,14 +37,16 @@ This project predicts the **price of a used car** based on various features usin
 
 1. Clone the repository:
 
-   git clone https://github.com/Jahnavi2711/Car-Price-Prediction.git
+      git clone https://github.com/Jahnavi2711/Car-Price-Prediction.git
 
-   cd Car-Price-Prediction
+      cd Car-Price-Prediction
    
 2. Install dependencies:
  
-  pip install -r requirements.txt
+      pip install -r requirements.txt
 
 3. Run the Streamlit app:
 
-  streamlit run app.py
+      streamlit run app.py
+
+## App Link : https://car-price-prediction-using-machine-learning.streamlit.app/
